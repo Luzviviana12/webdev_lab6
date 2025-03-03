@@ -1,37 +1,41 @@
-body
+body { background-image: url("../images/black.jpg"); }
 
-#page-wrapper
+#page-wrapper { width: 960px;
+margin: 0 auto;
+box-shadow: 0px 4px 8px 2px rgba(0, 0, 0, 1);
+border-radius: 12px 12px 0px 0px;}
 
-#header
 
-#header h1
+#header {}
 
-#header a#logo1 img
+#header h1 {}
 
-#header #toplink
+#header a#logo1 img {}
 
-#footer
+#header #toplink {}
 
-#content-wrapper
+#footer {}
 
-#main-content
+#content-wrapper {}
 
-h2 strong
+#main-content {}
 
-.image-r
+h2 strong {} 
 
-#side-content
+.image-r {}
 
-#main-nav
+#side-content {}
 
-#main-nav ul
+#main-nav {}
 
-#main-nav ul li
+#main-nav ul {}
 
-#main-nav ul li a
+#main-nav ul li {}
 
-#main-nav ul li a:hover
+#main-nav ul li a {}
 
-#center
+#main-nav ul li a:hover {}
 
-strong
+#center {}
+
+strong {}
