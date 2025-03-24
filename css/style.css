@@ -113,10 +113,10 @@ img {
 
 .imageR {
 	float: right;
-	border: 2x solid blue;
+	border: 2px solid blue;
 	padding: 5px;
 	background-color: white;
-	margin: 10 px 0 10px 20px;
+	margin: 10px 0 10px 20px;
 }
 
 strong {
