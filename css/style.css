@@ -63,13 +63,8 @@ h2 strong {
 	font-weight: 900;
 }
 
-.image-r {
-	float: right;
-	border: 2px solid blue;
+img {
 	width: 300px;
-	padding: 5px;
-	background-color: white;
-	margin: 10px 0 10px 20px;
 }
 
 #side-content {
@@ -114,6 +109,14 @@ h2 strong {
 #center {
 	width: 960px;
 	text-align: center;
+}
+
+.imageR {
+	float: right;
+	border: 2x solid blue;
+	padding: 5px;
+	background-color: white;
+	margin: 10 px 0 10px 20px;
 }
 
 strong {
